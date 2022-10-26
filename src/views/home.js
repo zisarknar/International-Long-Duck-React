@@ -13,9 +13,7 @@ const Home = (props) => {
       </Helmet>
       <div className="home-container1">
         <span className="home-text">
-          <span>Brand</span>
-          <br></br>
-          <br></br>
+          <span>Changed by VSCode</span>
         </span>
       </div>
     </div>
