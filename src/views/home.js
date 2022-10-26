@@ -12,9 +12,18 @@ const Home = (props) => {
         <meta property="og:title" content="International Long Duck" />
       </Helmet>
       <div className="home-container1">
-        <span className="home-text">
-          <span>Changed by VSCode</span>
-        </span>
+        <div className="home-container2">
+          <span className="home-text">
+            <span>Brand</span>
+            <br></br>
+            <br></br>
+          </span>
+        </div>
+        <div className="home-container3">
+          <span>Text</span>
+          <span>Text</span>
+          <span>Text</span>
+        </div>
       </div>
     </div>
   )
