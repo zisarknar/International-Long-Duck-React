@@ -1,0 +1,21 @@
+.menu-item-container {
+  width: 100%;
+  height: 100px;
+  display: flex;
+  position: relative;
+  align-items: center;
+  padding-left: var(--dl-space-space-unit);
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.menu-item-icon {
+  fill: var(--dl-color-default-white);
+  color: var(--dl-color-default-white);
+  width: 24px;
+  height: 24px;
+  margin-right: var(--dl-space-space-unit);
+}
+.menu-item-dashboard {
+  color: var(--dl-color-default-white);
+  font-size: 24px;
+}
